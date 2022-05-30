@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week14_praktikum_Timotius Septian_0706022110022", "Week14_praktikum_Timotius Septian_0706022110022\Week14_praktikum_Timotius Septian_0706022110022.csproj", "{7120F7DB-F2E0-45D0-BB3C-695163BC2B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7120F7DB-F2E0-45D0-BB3C-695163BC2B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7120F7DB-F2E0-45D0-BB3C-695163BC2B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7120F7DB-F2E0-45D0-BB3C-695163BC2B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7120F7DB-F2E0-45D0-BB3C-695163BC2B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {270C9F56-0CFB-4CFE-9832-B6F386B2B4E1}
+	EndGlobalSection
+EndGlobal
